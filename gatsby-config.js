@@ -1,26 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: 'John Doe',
+    title: 'Sienna Luong',
     description:
-      'John Doe is a lifestyle photographer based in San Francisco, CA',
-    url: 'https://gatsby-starter-amsterdam.netlify.com',
-    author: 'John Doe',
+      'Sienna Luong is an aspiring software engineer based in London, Ontario',
+    url: 'https://siennaluong.github.io/',
+    author: 'Sienna Luong',
     image: 'https://gatsby-starter-amsterdam.netlify.com/og-image.jpg',
-    intro: 'John Doe is a lifestyle photographer based in San Francisco, CA',
+    intro: 'Sienna Luong is an aspiring software engineer based in London, Ontario',
     menuLinks: [
       {
-        name: 'John Doe',
+        name: 'Sienna\'s Blog',
         slug: '/',
       },
       {
-        name: 'Example Page',
+        name: 'About me',
         slug: '/example/',
+      },
+      {
+        name: 'Food',
+        slug: '/food/',
       },
     ],
     footerLinks: [
       {
-        name: 'Gatsby Theme Amsterdam',
-        url: 'https://github.com/ryanwiemer/gatsby-theme-amsterdam',
+        name: 'Portfolio',
+        url: 'https://siennaluong.github.io/',
       },
     ],
   },
